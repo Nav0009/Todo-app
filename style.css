@@ -12,7 +12,7 @@
     overflow: none;
 }
 .todo-app{
-    width: 100%;
+    min-width: 100%;
     max-width: 540px;
     background: #fff;
     margin: 100px auto 20px;
